@@ -1,6 +1,7 @@
 # Oie, eu sou a Larissa Santos, bem vindo ao meu GitHub! ✨
 
 Sou estudante de Sistemas de Informação com foco em desenvolvimento FullStack.
+
 Atualmente trabalho como Analista de TI para a TCS. 
 
 ## Conecte-se comigo
